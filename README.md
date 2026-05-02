@@ -77,18 +77,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShantamRanjan&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShantamRanjan&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
@@ -114,13 +102,5 @@
 <div align="center">
 
 > "Building intelligent systems today for a smarter tomorrow." 🚀
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ShantamRanjan&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
